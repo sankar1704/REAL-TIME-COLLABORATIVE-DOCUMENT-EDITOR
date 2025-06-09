@@ -20,3 +20,4 @@ In conclusion, this project showcases a thoughtful integration of cutting-edge t
 
 # OUTPUT OF THE TASK
 
+![Image](https://github.com/user-attachments/assets/651fe541-6e93-4c58-abf9-05c0a9903d24)
